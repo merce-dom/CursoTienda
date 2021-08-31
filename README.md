@@ -1,2 +1,1 @@
-# CursoTienda
-Curso Django tienda
+# CursoTienda por cuarta vez

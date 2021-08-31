@@ -1,0 +1,4 @@
+<?php
+	echo "hola a todos desde bornay.es";
+
+?>

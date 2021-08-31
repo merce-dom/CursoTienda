@@ -1,4 +1,4 @@
 <?php
-	echo "hola a todos desde bornay.es - Mercedes Domene";
+	echo "hola a todos desde la oficina técnica de bornay.es - Mercedes Domene";
 
 ?>
